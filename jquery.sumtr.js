@@ -35,7 +35,8 @@
       summaryRows.each(function(index) {
         var col = 0;
         $(this).children("td").each(function() {
-            if (s[++col] != "noCount") $(this).html(settings.formatValue(s[col]));
+            if (s[col] != "noCount") $(this).html(settings.formatValue(s[col]));
+            col++;
         });
       });
     });
