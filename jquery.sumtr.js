@@ -3,9 +3,9 @@
   $.fn.sumtr = function(options) {
 
     var settings = null;
-    if(typeof option === 'object')
+    if(typeof options === 'object')
     {
-        settings = option;
+        settings = options;
     }
 
     // extend user settings with default settings
@@ -35,7 +35,7 @@
       summaryRows.each(function(index) {
         var col = 0;
         $(this).children("td").each(function() {
-            if (s[++col] != "noCount") $(this).html(s[col]);
+            if (s[++col] != "noCount") $(this).html(settings.formatValue(s[col]));
         });
       });
     });
@@ -43,6 +43,7 @@
 
   $.fn.sumtr.defaultSettings = {
     readValue : function(e) { return parseFloat(e.html()); },
+    formatValue : function(val) { return val; },
     sumCells : '.sum',
     bodyRows : 'tbody tr',
     summaryRows : 'tr.summary',
