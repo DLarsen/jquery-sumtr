@@ -5,6 +5,24 @@ Allows you to summarize table rows with ease.
 
 [Working demo](http://jsfiddle.net/hZqGg/) on JSFiddle.
 
+How it Works
+------------
+
+First, finds all the rows in the `tbody` and looks for cells with the `sum` class.
+Next, it sums those column by column.
+Lastly, it displays in the results in any row matching the selector `tr.summary`.
+
+You can call Sumtr with options to override these defaults:
+
+    $('#myTable').sumtr({
+        sumCells : 'td.summableCell',
+        bodyRows : 'tr.summableRow',
+        summaryRows : 'tr.total'
+    });
+
+Example
+------------
+
 Given the following markup:
 
     <table id="myTable">
