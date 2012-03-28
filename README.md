@@ -3,6 +3,8 @@ JQuery Sumtr
 
 Allows you to summarize table rows with ease.
 
+[Working demo](http://jsfiddle.net/hZqGg/) on JSFiddle.
+
 Given the following markup:
 
     <table id="myTable">
