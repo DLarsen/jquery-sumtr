@@ -59,4 +59,23 @@
     summaryRows : 'tr.summary',
   };
 
+  // a related helper
+  $.fn.sumtrRatio = function(n,d,q) {
+
+    function format_percent(n){
+      return roundNumber(n, 2).toString() + "%";
+    }
+
+    function roundNumber(num, dec) {
+      var result = Math.round(num*Math.pow(10,dec))/Math.pow(10,dec);
+      return result;
+    }
+
+    var _n = $(this).find(n).data('sumtr');
+    var _d = $(this).find(d).data('sumtr');
+    var _q = _d > 0 ? (_n / _d) : 0;
+
+    $(this).find(q).html(_q > 0 ? format_percent(_q * 100) : '-');
+  }
+
 })(jQuery);

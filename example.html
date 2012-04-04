@@ -4,16 +4,8 @@
     <script type='text/javascript' src='jquery.sumtr.js'></script>
     <script type='text/javascript'>
       $(function(){
-        $('#invoice_table').sumtr({
-          onComplete: function(e){
-            e.find('.summary').each(function(index) {
-              var first = $(this).find('.first').data('sumtr');
-              var third = $(this).find('.third').data('sumtr');
-              var second = first / third;
-              $(this).find('.second').html(Math.round(second * 100) + '%');
-            });
-          }
-        });
+        $('#invoice_table').sumtr();
+        $('#invoice_table .summary').sumtrRatio('.first', '.third', '.second');
       });
     </script>
     <style>
