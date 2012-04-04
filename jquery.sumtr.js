@@ -35,16 +35,23 @@
       summaryRows.each(function(index) {
         var col = 0;
         $(this).children("td").each(function() {
-            if (s[col] != "noCount") $(this).html(settings.formatValue(s[col]));
+            if (s[col] != "noCount"){
+              $(this).html(settings.formatValue(s[col]));
+              settings.onSum($(this), s[col]);
+            }
             col++;
         });
       });
+
+      settings.onComplete(table);
     });
   };
 
   $.fn.sumtr.defaultSettings = {
     readValue : function(e) { return parseFloat(e.html()); },
     formatValue : function(val) { return val; },
+    onComplete : function(e) {  },
+    onSum : function(e,sum) { e.data('sumtr', sum); },
     sumCells : '.sum',
     bodyRows : 'tbody tr',
     summaryRows : 'tr.summary',
