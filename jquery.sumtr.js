@@ -28,18 +28,21 @@
               } else {
                 s[col] = "noCount"; // a flag which tells us we're not counting that column
               }
-              col++;
+              var colspan = (parseInt($(this).attr('colspan'))) || 1;
+              col = col + colspan;
           });
       });
 
       summaryRows.each(function(index) {
         var col = 0;
         $(this).children("td").each(function() {
+            console.log(col)
             if (s[col] != "noCount"){
               $(this).html(settings.formatValue(s[col]));
               settings.onSum($(this), s[col]);
             }
-            col++;
+            var colspan = (parseInt($(this).attr('colspan'))) || 1;
+            col = col + colspan;
         });
       });
 

@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.7.1.js'></script>
+    <script type='text/javascript' src='jquery.sumtr.js'></script>
+    <script type='text/javascript'>
+      $(function(){
+        $('#invoice_table').sumtr({
+          onComplete: function(e){
+            e.find('.summary').each(function(index) {
+              var first = $(this).find('.first').data('sumtr');
+              var third = $(this).find('.third').data('sumtr');
+              var second = first / third;
+              $(this).find('.second').html(Math.round(second * 100) + '%');
+            });
+          }
+        });
+      });
+    </script>
+    <style>
+      td, th { padding: 4px; }
+      th { font-weight: bold; }
+      .summary { font-weight: bold; background-color: #ddd;}​
+    </style>
+  </head>
+  <body>
+    <table id="invoice_table">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>First</th>
+            <th>Last</th>
+            <th>A</th>
+            <th>B</th>
+            <th>C</th>
+          </tr>
+          <tr class="summary">
+            <td colspan="3">Total:</td>
+            <td class="first">?</td>
+            <td class="second">?</td>
+            <td class="third">?</td>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td>Mr.</td>
+              <td colspan="2">Bobbr</td>
+              <td class="sum">1</td>
+              <td>33%</td>
+              <td class="sum">3</td>
+            </tr>
+            <tr>
+              <td>Mr.</td>
+              <td>Henry</td>
+              <td>Henry</td>
+              <td class="sum">5</td>
+              <td>56%</td>
+              <td class="sum">9</td>
+            </tr>
+            <tr>
+              <td>Mrs.</td>
+              <td>Janet</td>
+              <td>Janet</td>
+              <td class="sum">1</td>
+              <td>33%</td>
+              <td class="sum">3</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr class="summary">
+              <td>Total:</td>
+              <td colspan="2">Total:</td>
+              <td class="first">?</td>
+              <td class="second">?</td>
+              <td class="third">?</td>
+            </tr>
+        </tfoot>
+      </table>
+  </body>
+<html>

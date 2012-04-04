@@ -1,0 +1,1227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defa",
+				"default_minimum_cpm"
+			],
+			[
+				"is",
+				"is_admin"
+			],
+			[
+				"render",
+				"render_404"
+			],
+			[
+				"MapSi",
+				"MapSiteCampaign"
+			],
+			[
+				"filtering",
+				"filtering_map_site_campaign"
+			],
+			[
+				"A",
+				"Array	Array.new(10) { |i| .. }"
+			],
+			[
+				"in",
+				"inline-block  (value)"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"id",
+				"identifying_domains_text=  (function)"
+			],
+			[
+				"create",
+				"create_default"
+			],
+			[
+				"type",
+				"type_code"
+			],
+			[
+				"a",
+				"a_pixels  (variable)"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"l",
+				"length  (variable)"
+			],
+			[
+				"backgrou",
+				"background	background-color: hex"
+			],
+			[
+				"range",
+				"range_exclusive"
+			],
+			[
+				"fid",
+				"fid_data"
+			],
+			[
+				"extra",
+				"extra_columns"
+			],
+			[
+				"get",
+				"get_record"
+			],
+			[
+				"mino",
+				"minor_entity_type"
+			],
+			[
+				"ent",
+				"entity_type"
+			],
+			[
+				"minor_ent",
+				"minor_entity_id"
+			],
+			[
+				"minor",
+				"minor_entity_id"
+			],
+			[
+				"entit",
+				"entity_id"
+			],
+			[
+				"max",
+				"maxrows"
+			],
+			[
+				"at",
+				"at_end_of_month"
+			],
+			[
+				"be",
+				"at_beginning_of_month"
+			],
+			[
+				"sor",
+				"sorb	sort_by { |e| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "example.html",
+			"settings":
+			{
+				"buffer_size": 2006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jquery.sumtr.js",
+			"settings":
+			{
+				"buffer_size": 1680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jquery.sumtr.min.js",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Package File"
+			],
+			[
+				"",
+				"SublimeRailsNav: List models"
+			],
+			[
+				"engine",
+				"Preferences: Global Settings - Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_approvals/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/reporting/aggregated_stats.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/counts_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/stats/rtb_stats.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/report_engine.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/audience_builder/audience/edit.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/audience.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/audience_builder/audience_builder/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_approval_settings/show.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_approval_settings/_creative_filtering.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/db/migrate/097_pub_payment_3p_counts.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/publisher_payment.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/publisher_payments/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/client/payment_method_form.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/publisher.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/spec/models/site/payment_calculator.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/site/payment_calculator.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/site.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/site_format.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/pub/site_approvals_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_creatives/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/public/javascripts/jquery.sumtr.js",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/sites/_list.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/config/initializers/config.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/application.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/config/environments/production.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/config/environments/staging.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/home/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/creatives/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_creatives/_list.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/elements/_heatmap_site_creative.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/public/javascripts/tf_update.js",
+		"/home/david/Sites/ccg-rails/ccgweb/public/javascripts/application.js",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/campaign/workflow.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_creatives/_form.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaigns/_form.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/elements/_details_by_mid.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/details/_sequential.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/details/sequential/_mid_table.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/queue/pending_advertiser.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/creative.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/click_pixel.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/pixels/edit.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pixels/_form.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/db/migrate/095_add_pixel_ttl.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/abstract_pixel.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/pixel.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/audience_builder/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/audiences/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/reporting/r_table_query.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/domain.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/queue/pending_site.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/zid_totals_by_time.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/reporting/r_table_results.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/lib/audience_counts_chart.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/lib/name.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/advertisers/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/sys/search_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/sys_config_scalar.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/sys_config.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/db/migrate/096_xid_ttls.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pixels/_list.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_pixels/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_audience/show.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaigns/show.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/config/routes.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/adv/campaign_click_pixels_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/campaign_click_pixels/edit.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/lib/hbase/hbase.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/lib/hbase_util.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/reporting/hbase_engine.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/payments/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/lib/lookup.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/adv/advertisers/_list.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/public/advertiser_applications_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_approvals/show.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/pub/queued_sites_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/queue/pending_alias.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/queue/pending_publisher.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/mailers/public/alias_application_mailer.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/usr/accounts_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/user_event.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/campaign.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/adv/creatives_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/Gemfile",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/targeting_filter/summary.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/public/stylesheets/lovely.css",
+		"/home/david/Sites/ccg-rails/ccgweb/public/stylesheets/styles.css",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/part/_entity.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/pub/sites_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/campaign/completion_audit.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/sites/show.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/sites/_completeness_check.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_formats/edit.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/site_base_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/site/completion_audit.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/creative_format.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/application_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/application_v3.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/_impersonate.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/_session_status.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/advertiser.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/config/deploy.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/details/chunked/_site_campaigns_table.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/details/chunked/_campaign_sites_table.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/config/environments/test.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_reports/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/map_site_creative.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/sites/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/user.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/adv/campaign_filtering_preferences_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_defaults/edit.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/layouts/part/_google_analytics.html.haml",
+		"/home/david/monday-backup/prod.sql.2012-03-20.backup",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_ad_tags/_ad_tag_options.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/publishers/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/elements/_totals_by_time.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_reports/_fid_list.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/public/stylesheets/layout.css",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/_site_total.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/reports/_campaign_total.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/models/ability.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/pub/site_ad_tags_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pixels/index.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/controllers/pub/publishers_controller.rb",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_ad_tags/_ad_tag_iframe.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_ad_tags/_ad_tag_javascript.html.haml",
+		"/home/david/Sites/ccg-rails/ccgweb/app/views/pub/site_ad_tags/index.html.haml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/david/Sites/ccg-rails/ccgweb/app/",
+			"/home/david/Sites/ccg-rails/ccgweb/app/views",
+			"/home/david/Sites/ccg-rails/ccgweb/",
+			"/home/david/Sites/ccg-rails/ccgweb/app/",
+			"/home/david/Sites/ccg-rails/ccgweb/app/models",
+			"/home/david/Sites/ccg-rails/ccgweb/app",
+			"/home/david/Sites/ccg-rails/ccgweb/",
+			"/home/david/Sites/ccg-rails/ccgweb/db",
+			"/home/david/Sites/ccg-rails/ccgweb",
+			"/home/david/Sites/ccg-rails/ccgweb/app",
+			"/home/david/Sites/ccg-rails/ccgweb/app/views",
+			"/home/david/Sites/ccg-rails/ccgweb/*.haml",
+			"/home/david/Sites/ccg-rails/ccgweb/",
+			"/home/david/Sites/ccg-rails/ccgweb/apps/",
+			"/home/david/Sites/ccg-rails/ccgweb/apps/models",
+			"/home/david/Sites/ccg-rails/ccgweb",
+			"/home/david/Sites/ccg-rails/ccgweb/app/views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"days",
+			"delivery",
+			".audience_size",
+			"publi",
+			"publisher-name",
+			"count",
+			"transport",
+			"tcp",
+			"uqs",
+			"enable",
+			"dev team",
+			"know a name",
+			"geoip_file",
+			"msc_to_show_data",
+			"valid_human_mutation",
+			"This campaign has no click urls.",
+			"CLUSTER",
+			"aCPM =",
+			"expected",
+			"control",
+			"hard_reject_email",
+			"mail",
+			"UserEvent",
+			"AliasApplicationMailer",
+			"$",
+			"minimum",
+			"fixed",
+			"all_msc",
+			"get_for_site_by_campaign",
+			"filtering_map_site_campaign",
+			"fitlering_map_site_campaign",
+			"cfitlering_map_site_campaign",
+			"rtb",
+			"sort",
+			"data",
+			"publisher_alias",
+			"name",
+			"def current_user",
+			"current_user",
+			":impersonate",
+			"adapter",
+			"rate_gap",
+			"formats",
+			"rate_gaps",
+			":bundle_dir",
+			"GEM_HOME",
+			"pubweb",
+			"english",
+			"status",
+			"terminated",
+			"dev",
+			"terminated",
+			"reports",
+			"details_by_sid",
+			"nav",
+			"recent",
+			"not auth",
+			"tablesorter",
+			"role",
+			"tooltip",
+			"file_name_for_download",
+			"ad_tag_params_for",
+			"file_name_for_download",
+			"can?",
+			"404",
+			"editable",
+			"yAxis",
+			"table",
+			"updateinterval",
+			"clickrow",
+			"n reset",
+			"resetRow",
+			".chart_options",
+			"until_load",
+			"le#camp",
+			"updat",
+			"css",
+			"def all",
+			"all_mscs",
+			"ftype",
+			"data =",
+			"load",
+			"data =",
+			"pop",
+			"all_msc",
+			"resetrow",
+			"n resetrow",
+			"auction_flag",
+			"bad mode",
+			"update",
+			"n reset",
+			"n bind",
+			"cid =",
+			"    ",
+			" =');",
+			"clickedit",
+			"editrow",
+			"n selectCampaignRow",
+			"updatetab",
+			"editBtn",
+			"upload",
+			"fcap",
+			"def mid_fcap_i_description",
+			"fcap",
+			"@list_of_flags",
+			"add_auction_flag",
+			"min_margin_rtb",
+			"Changes to the ROA",
+			"WARNING: Changes to the ROA",
+			"chevy",
+			"status",
+			"campaign taxonomy",
+			"rate",
+			"ccm",
+			"MapTargetingFilterCreative",
+			"ul",
+			"ui_type",
+			"update_search_terms",
+			"update_sear",
+			"notice",
+			"flash",
+			"This site is terminated",
+			"autofilterstatus\nAutoFilterStatus",
+			"autofilterstatus",
+			"data =",
+			"data=",
+			"data =",
+			"campaign approval"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"aCPM  =",
+			"expec",
+			"",
+			"d",
+			"'),('",
+			"",
+			"\\n",
+			"",
+			".hn=",
+			".hn",
+			"'",
+			"%td.tck",
+			"",
+			"\\t",
+			"",
+			"\\n",
+			"a*",
+			"creative.mid",
+			"dollars",
+			"campaign.cid",
+			"QR",
+			"ad_count"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "example.html",
+					"settings":
+					{
+						"buffer_size": 2006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "jquery.sumtr.js",
+					"settings":
+					{
+						"buffer_size": 1680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "jquery.sumtr.min.js",
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1016,
+								1016
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 5805.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pubsiteslist",
+				"app/views/pub/sites/_list.html.haml"
+			],
+			[
+				"siteshow.",
+				"app/views/pub/sites/show.html.haml"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.haml"
+			],
+			[
+				"report_menu",
+				"app/views/reports/_network_menu.html.haml"
+			],
+			[
+				"c",
+				"app/models/campaign.rb"
+			],
+			[
+				"recent_campa",
+				"app/views/reports/recent_campaign.html.haml"
+			],
+			[
+				"campaign",
+				"app/models/campaign.rb"
+			],
+			[
+				"recentcamp",
+				"app/views/reports/recent_campaign.html.haml"
+			],
+			[
+				"reportc",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"eng",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"repeng",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"rake",
+				"lib/tasks/cx.rake"
+			],
+			[
+				"campa",
+				"app/models/campaign.rb"
+			],
+			[
+				"campaignform",
+				"app/models/campaign_format.rb"
+			],
+			[
+				"_network",
+				"app/views/reports/_network_total.html.haml"
+			],
+			[
+				"publishershow",
+				"app/views/pub/publishers/show.html.haml"
+			],
+			[
+				"pubsitelist",
+				"app/views/pub/sites/_list.html.haml"
+			],
+			[
+				"approvalsindex",
+				"app/views/pub/site_approvals/index.html.haml"
+			],
+			[
+				"creative_filterin",
+				"app/views/pub/site_approval_settings/_creative_filtering.html.haml"
+			],
+			[
+				"approvalsshow",
+				"app/views/pub/site_approval_settings/show.html.haml"
+			],
+			[
+				"approvalshow",
+				"app/views/pub/site_approval_settings/show.html.haml"
+			],
+			[
+				"aggstat",
+				"app/models/reporting/aggregated_stats.rb"
+			],
+			[
+				"countcont",
+				"app/controllers/counts_controller.rb"
+			],
+			[
+				"rtbstat",
+				"app/models/stats/rtb_stats.rb"
+			],
+			[
+				"repor",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"audience",
+				"app/models/audience.rb"
+			],
+			[
+				"audiencbuilderindex",
+				"app/views/audience_builder/audience_builder/index.html.haml"
+			],
+			[
+				"publpaymen",
+				"app/models/publisher_payment.rb"
+			],
+			[
+				"pubpaymen",
+				"app/views/publisher_payments/index.html.haml"
+			],
+			[
+				"publisher",
+				"app/models/publisher.rb"
+			],
+			[
+				"r_table",
+				"app/models/reporting/r_table_results.rb"
+			],
+			[
+				"look",
+				"lib/lookup.rb"
+			],
+			[
+				"lookup",
+				"lib/lookup.rb"
+			],
+			[
+				"paymentin",
+				"app/views/pub/payments/index.html.haml"
+			],
+			[
+				"publi",
+				"app/models/publisher.rb"
+			],
+			[
+				"site.",
+				"app/models/site.rb"
+			],
+			[
+				"audbuilindex",
+				"app/views/audience_builder/audience_builder/index.html.haml"
+			],
+			[
+				"audindex",
+				"app/views/adv/audiences/index.html.haml"
+			],
+			[
+				"ziti",
+				"app/views/reports/zid_totals_by_time.html.haml"
+			],
+			[
+				"zid",
+				"app/views/reports/zid_totals_by_time.html.haml"
+			],
+			[
+				"repen",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"rtabl",
+				"app/models/reporting/r_table_query.rb"
+			],
+			[
+				"rtablres",
+				"app/models/reporting/r_table_results.rb"
+			],
+			[
+				"chart",
+				"lib/audience_counts_chart.rb"
+			],
+			[
+				"name",
+				"lib/name.rb"
+			],
+			[
+				"audchar",
+				"lib/audience_counts_chart.rb"
+			],
+			[
+				"audiencchar",
+				"lib/audience_counts_chart.rb"
+			],
+			[
+				"appviewadvaudience",
+				"app/views/adv/audiences/index.html.haml"
+			],
+			[
+				"hbengin",
+				"app/models/reporting/hbase_engine.rb"
+			],
+			[
+				"hbaseut",
+				"lib/hbase_util.rb"
+			],
+			[
+				"hbaseeng",
+				"app/models/reporting/hbase_engine.rb"
+			],
+			[
+				"pixelindex",
+				"app/views/adv/campaign_pixels/index.html.haml"
+			],
+			[
+				"click",
+				"app/models/click_pixel.rb"
+			],
+			[
+				"pixel",
+				"app/models/pixel.rb"
+			],
+			[
+				"pixel.",
+				"app/models/pixel.rb"
+			],
+			[
+				"pixelform",
+				"app/views/pixels/_form.html.haml"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"pixellist",
+				"app/views/pixels/_list.html.haml"
+			],
+			[
+				"abstra",
+				"app/models/abstract_pixel.rb"
+			],
+			[
+				"campaignpixelindex",
+				"app/views/adv/campaign_pixels/index.html.haml"
+			],
+			[
+				"campaignshow",
+				"app/views/adv/campaigns/show.html.haml"
+			],
+			[
+				"clickp",
+				"app/models/click_pixel.rb"
+			],
+			[
+				"pixelinde",
+				"app/views/adv/campaign_pixels/index.html.haml"
+			],
+			[
+				"pixel_form",
+				"app/views/pixels/_form.html.haml"
+			],
+			[
+				"sysconfig",
+				"app/models/sys_config.rb"
+			],
+			[
+				"abstract",
+				"app/models/abstract_pixel.rb"
+			],
+			[
+				"searh",
+				"app/controllers/sys/search_controller.rb"
+			],
+			[
+				"aud",
+				"app/models/audience.rb"
+			],
+			[
+				"audiencebuilderaudiencebuilderindex",
+				"app/views/audience_builder/audience_builder/index.html.haml"
+			],
+			[
+				"engine",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"engin",
+				"app/controllers/report_engine.rb"
+			],
+			[
+				"audiencecountschart",
+				"lib/audience_counts_chart.rb"
+			],
+			[
+				"rtable",
+				"app/models/reporting/r_table_results.rb"
+			],
+			[
+				"zidto",
+				"app/views/reports/zid_totals_by_time.html.haml"
+			],
+			[
+				"pendingsit",
+				"app/models/queue/pending_site.rb"
+			],
+			[
+				"domain",
+				"app/models/domain.rb"
+			],
+			[
+				"audiendex",
+				"app/views/adv/audiences/index.html.haml"
+			],
+			[
+				"audienceindex",
+				"app/views/audience_builder/index.html.haml"
+			],
+			[
+				"abstrac",
+				"app/models/abstract_pixel.rb"
+			],
+			[
+				"pixeledit",
+				"app/views/adv/pixels/edit.html.haml"
+			],
+			[
+				"creativ",
+				"app/models/creative.rb"
+			],
+			[
+				"site_appro",
+				"app/controllers/pub/site_approvals_controller.rb"
+			],
+			[
+				"advapplic",
+				"app/controllers/public/advertiser_applications_controller.rb"
+			],
+			[
+				"seqmid_table",
+				"app/views/reports/details/sequential/_mid_table.html.haml"
+			],
+			[
+				"sequential",
+				"app/views/reports/details/_sequential.html.haml"
+			],
+			[
+				"detailsbymid",
+				"app/views/reports/elements/_details_by_mid.html.haml"
+			],
+			[
+				"application",
+				"public/javascripts/application.js"
+			],
+			[
+				"tf_update",
+				"public/javascripts/tf_update.js"
+			],
+			[
+				"heatmap",
+				"app/views/reports/elements/_heatmap_site_creative.html.haml"
+			],
+			[
+				"pubsitelis",
+				"app/views/pub/sites/_list.html.haml"
+			],
+			[
+				"campacrindex",
+				"app/views/adv/campaign_creatives/index.html.haml"
+			],
+			[
+				"campcretilist",
+				"app/views/adv/campaign_creatives/_list.html.haml"
+			],
+			[
+				"creativeind",
+				"app/views/adv/creatives/index.html.haml"
+			],
+			[
+				"countscont",
+				"app/controllers/counts_controller.rb"
+			],
+			[
+				"pubsiteapprov",
+				"app/controllers/pub/site_approvals_controller.rb"
+			],
+			[
+				"paymen",
+				"app/models/site/payment_calculator.rb"
+			],
+			[
+				"paymentc",
+				"spec/models/site/payment_calculator.rb"
+			],
+			[
+				"sitlist",
+				"app/views/pub/sites/_list.html.haml"
+			],
+			[
+				"staging.rb",
+				"config/environments/staging.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"siteapprovalindex",
+				"app/views/pub/site_approvals/index.html.haml"
+			],
+			[
+				"sitappro",
+				"app/controllers/pub/site_approvals_controller.rb"
+			],
+			[
+				"site_forma",
+				"app/models/site_format.rb"
+			],
+			[
+				"site.rb",
+				"app/models/site.rb"
+			],
+			[
+				"siteapprovashow",
+				"app/views/pub/site_approvals/show.html.haml"
+			],
+			[
+				"siteapprov",
+				"app/controllers/pub/site_approvals_controller.rb"
+			],
+			[
+				"userev",
+				"app/models/user_event.rb"
+			],
+			[
+				"pubpaymentsindex",
+				"app/views/publisher_payments/index.html.haml"
+			],
+			[
+				"audienc",
+				"app/models/audience.rb"
+			],
+			[
+				"sitedefault",
+				"app/views/pub/site_defaults/edit.html.haml"
+			],
+			[
+				"sit",
+				"app/controllers/pub/sites_controller.rb"
+			],
+			[
+				"campaignfilter",
+				"app/controllers/adv/campaign_filtering_preferences_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"siteformat.rb",
+				"app/models/site_format.rb"
+			],
+			[
+				"siteformat",
+				"app/views/pub/site_formats/edit.html.haml"
+			],
+			[
+				"sitelist",
+				"app/views/pub/sites/_list.html.haml"
+			],
+			[
+				"siteinde",
+				"app/views/pub/sites/index.html.haml"
+			],
+			[
+				"mapsite",
+				"app/models/map_site_creative.rb"
+			],
+			[
+				"config",
+				"app/models/sys_config.rb"
+			],
+			[
+				"siterepoindex",
+				"app/views/pub/site_reports/index.html.haml"
+			],
+			[
+				"siteapproval",
+				"app/controllers/pub/site_approvals_controller.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"sitecampaign",
+				"app/views/reports/details/chunked/_site_campaigns_table.html.haml"
+			],
+			[
+				"",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"google",
+				"app/views/layouts/part/_google_analytics.html.haml"
+			],
+			[
+				"v3",
+				"app/views/layouts/application_v3.html.haml"
+			],
+			[
+				"advertiser",
+				"app/models/advertiser.rb"
+			],
+			[
+				"publisher.rb",
+				"app/models/publisher.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/david/Sites/spendfit/spendfit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 392.0,
+	"status_bar_visible": true
+}
