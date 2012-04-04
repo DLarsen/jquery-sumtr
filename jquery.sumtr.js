@@ -36,7 +36,6 @@
       summaryRows.each(function(index) {
         var col = 0;
         $(this).children("td").each(function() {
-            console.log(col)
             if (s[col] != "noCount"){
               $(this).html(settings.formatValue(s[col]));
               settings.onSum($(this), s[col]);
