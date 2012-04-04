@@ -33,3 +33,22 @@ You can pass in custom functions to handle value parsing and formatting.
         readValue : function(e) { return parseFloat(e.data('val')); },
         formatValue : function(val) { return '$' + val; },
     });
+
+
+Data Attributes
+------------------------
+By default, Sumtr writes a data attribute into each resulting cell.  Use this in conjunction
+with the onComplete option to do additional calcuations.
+
+    $('#invoice_table').sumtr({
+      onComplete: function(e){
+        e.find('.summary').each(function(index) {
+          var c = $(this).find('.clicks').data('sumtr');
+          var i = $(this).find('.impressions').data('sumtr');
+          var ctr = c / i;
+          $(this).find('.ctr').html(Math.round(ctr * 100) + '%');
+        });
+      }
+    });
+
+[Working demo](http://jsfiddle.net/gTV2H/) on JSFiddle.
