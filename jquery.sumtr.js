@@ -18,6 +18,9 @@
       var bodyRows    = $(this).find(settings.bodyRows);
       var summaryRows = $(this).find(settings.summaryRows);
 
+      // do nothing if there is nothing to sum
+      if (bodyRows.length == 0) return;
+
       bodyRows.each(function(index) {
           var col = 0;
           $(this).children("td").each(function() {
