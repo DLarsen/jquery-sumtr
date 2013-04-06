@@ -53,7 +53,7 @@
   };
 
   $.fn.sumtr.defaultSettings = {
-    readValue : function(e) { var r = parseFloat(e.html()); return isNaN(r) ? r : 0; },
+    readValue : function(e) { var r = parseFloat(e.html()); return !isNaN(r) ? r : 0; },
     formatValue : function(val) { return val; },
     onComplete : function(e) {  },
     onSum : function(e,sum) { e.data('sumtr', sum); },
